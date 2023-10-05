@@ -5,7 +5,7 @@
 
 - 👨‍💻 Meu portfólio de BI você encontra aqui: [https://bit.ly/3RhNHxD](https://bit.ly/3RhNHxD)
 
-- 💬 Me pergunte sobre **SGBDs, ETL/ELT, SQL, Power BI, DataViz**
+- 💬 Me pergunte sobre **Banco de dados, ETL/ELT, SQL, Power BI, DataViz**
 
 - 📫 Pode me contactar através do e-mail: **danielfariasgv@hotmail.com**
 
