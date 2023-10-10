@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, me chamo Daniel Farias</h1>
+<h1 align="center">Olá 👋, me chamo Daniel</h1>
 <h3 align="center">Apaixonado pela ciência de dados no mundo corporativo</h3>
 
 - 🌱 Atualmente estou aprendendo **Engenharia de dados, Python e Machine Learning**
