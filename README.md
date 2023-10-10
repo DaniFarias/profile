@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Engenharia de dados, Python e Machine Learning**
 
-- 👨‍💻 Meu portfólio de BI você encontra aqui: [https://bit.ly/3RhNHxD](https://bit.ly/3RhNHxD)
+- 👨‍💻 Meu portfólio de BI você acessar por aqui: [https://bit.ly/3RhNHxD](https://bit.ly/3RhNHxD)
 
 - 💬 Me pergunte sobre **Banco de dados, ETL/ELT, SQL, Power BI, DataViz**
 
