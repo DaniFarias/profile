@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chamo Daniel</h1>
-<h3 align="center">Um Apaixonado pela ciência de dados e o poder entender o mundo por meio dos números</h3>
+<h3 align="center">Um apaixonado pela ciência de dados e o poder entender o mundo por meio dos números</h3>
 
 - 🌱 Atualmente estou aprendendo **Engenharia de dados, Python e Machine Learning**
 
